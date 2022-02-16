@@ -4,8 +4,13 @@ description: 'This resource includes more information on Shannon?s theory i.e. P
   of converse, Few words on generality, Contrast with Hamming theory. It talks about
   back to error-correcting codes: goals and tools like Probability theory, Algebra:
   Finite fields, Linear spaces.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-895-essential-coding-theory-fall-2004/ab3d964a23c75ad1c956f88a492771ee_lect03slx4pdf.pdf
+file: /media/courses/6-895-essential-coding-theory-fall-2004/ab3d964a23c75ad1c956f88a492771ee_lect03slx4pdf.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect03slx4pdf.pdf
 uid: ab3d964a-23c7-5ad1-c956-f88a492771ee

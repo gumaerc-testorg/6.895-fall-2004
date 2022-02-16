@@ -10,8 +10,13 @@ description: 'This resource covers the following topics:
   expansion and
 
   - Locally Testable and Decodable Codes'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-895-essential-coding-theory-fall-2004/904589cd7a6f2aa69d4c56df48d12d18_lect22.pdf
+file: /media/courses/6-895-essential-coding-theory-fall-2004/904589cd7a6f2aa69d4c56df48d12d18_lect22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect22.pdf
 uid: 904589cd-7a6f-2aa6-9d4c-56df48d12d18
