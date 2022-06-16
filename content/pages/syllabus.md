@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus contains course information, prerequisites and grading policy
+  for this course. It also includes a list of some standard references for coding
+  theory.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
