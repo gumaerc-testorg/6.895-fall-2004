@@ -8,6 +8,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/fb6a3659ad097a21caee42e21
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: fb6a3659-ad09-7a21-caee-42e210c10293
 ---
 An overview on the Alon et al [ABNNR] code construction and present a generalization
 due to Alon, Edmonds, and Luby [AEL].
-

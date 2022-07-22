@@ -14,6 +14,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/904589cd7a6f2aa69d4c56df4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -27,4 +28,3 @@ This resource covers the following topics:
 - Guruswami?s List Decodable codes
 - Capalbo-Reingold-Vadhan-Wigderson Zig-zag product for expanders with good vertex expansion and
 - Locally Testable and Decodable Codes
-

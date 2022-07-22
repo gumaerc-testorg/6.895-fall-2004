@@ -6,6 +6,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/de667eaf93eac97586adc30d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect04slx4.pdf
 uid: de667eaf-93ea-c975-86ad-c30d3c0fedfa
 ---
 Topics covered in this resource are asymptotically good codes, Random/Greedy codes, some impossibility results.
-

@@ -6,6 +6,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/46e3bde893d781f4104d0c632
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect11.pdf
 uid: 46e3bde8-93d7-81f4-104d-0c63249d9111
 ---
 This lecture focuses on comparisons of the following properties/parameters of a code:  List decoding, vs distance; Distance, vs rate; List decoding, vs rate.
-

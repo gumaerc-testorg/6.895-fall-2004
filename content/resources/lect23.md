@@ -6,6 +6,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/a0968072c399e390d1d88ec50
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect23.pdf
 uid: a0968072-c399-e390-d1d8-8ec502d32e4c
 ---
 An examination of the zig-zag product introduced by Reingold, Vadhan, and Wigderson [2] and Capalbo, Reingold, Vadhan, and Wigderson [1].
-

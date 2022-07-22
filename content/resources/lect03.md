@@ -7,6 +7,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/5e3930912bd217554cd58c057
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lect03.pdf
 uid: 5e393091-2bd2-1755-4cd5-8c0573ca7a39
 ---
 Topics covered in this lecture are: Converse coding theorem; Shannon vs. Hamming theories; Goals for the rest of the course and; Tools we use in this course.
-

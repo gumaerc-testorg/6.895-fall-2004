@@ -6,6 +6,7 @@ file: /courses/6-895-essential-coding-theory-fall-2004/c7fee961504ab5881aba2dc14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect01slx4.pdf
 uid: c7fee961-504a-b588-1aba-2dc149612140
 ---
 This resource gives an overview and talks about hamming space, distance, code and applications.
-
