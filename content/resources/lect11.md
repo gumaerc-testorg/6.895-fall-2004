@@ -3,6 +3,7 @@ content_type: resource
 description: 'This lecture focuses on comparisons of the following properties/parameters
   of a code:  List decoding, vs distance; Distance, vs rate; List decoding, vs rate.'
 file: /courses/6-895-essential-coding-theory-fall-2004/46e3bde893d781f4104d0c63249d9111_lect11.pdf
+file_size: 308375
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

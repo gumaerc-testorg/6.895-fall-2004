@@ -2,6 +2,7 @@
 content_type: resource
 description: Introduction to Shannon?s coding theorem.
 file: /courses/6-895-essential-coding-theory-fall-2004/074857398da1986d173fe74fd902aab0_lect02.pdf
+file_size: 93429
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
