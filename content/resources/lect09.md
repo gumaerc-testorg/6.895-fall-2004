@@ -3,6 +3,7 @@ content_type: resource
 description: 'The topics covered in this resource are Binary Codes: Concatenation
   and Algorithmic Issues.'
 file: /courses/6-895-essential-coding-theory-fall-2004/ecddf6cc5b42a5eea899c02c1763070d_lect09.pdf
+file_size: 305648
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
