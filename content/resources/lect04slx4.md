@@ -3,6 +3,7 @@ content_type: resource
 description: Topics covered in this resource are asymptotically good codes, Random/Greedy
   codes, some impossibility results.
 file: /courses/6-895-essential-coding-theory-fall-2004/de667eaf93eac97586adc30d3c0fedfa_lect04slx4.pdf
+file_size: 51394
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

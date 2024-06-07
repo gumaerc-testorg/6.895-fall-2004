@@ -5,6 +5,7 @@ description: 'This resource includes more information on Shannon?s theory i.e. P
   back to error-correcting codes: goals and tools like Probability theory, Algebra:
   Finite fields, Linear spaces.'
 file: /courses/6-895-essential-coding-theory-fall-2004/ab3d964a23c75ad1c956f88a492771ee_lect03slx4pdf.pdf
+file_size: 96908
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

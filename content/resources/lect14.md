@@ -4,6 +4,7 @@ description: This lecture gives an overview on a new family of codes, based on e
   graphs, that gives us ?good? rate and relative distance, and linear time decoding
   algorithms.
 file: /courses/6-895-essential-coding-theory-fall-2004/d775966904967f22cde915ef13054957_lect14.pdf
+file_size: 261763
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

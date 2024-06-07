@@ -5,6 +5,7 @@ description: 'An overview on the Alon et al [ABNNR] code construction and presen
 
   due to Alon, Edmonds, and Luby [AEL].'
 file: /courses/6-895-essential-coding-theory-fall-2004/fb6a3659ad097a21caee42e210c10293_lect17.pdf
+file_size: 259032
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

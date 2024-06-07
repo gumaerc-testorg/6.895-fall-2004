@@ -8,6 +8,7 @@ description: 'Topics covered in this resource are:
 
   Introduction to list decoding.'
 file: /courses/6-895-essential-coding-theory-fall-2004/db7dd194ccda29ca46032ef26f0806c4_lect07.pdf
+file_size: 125099
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

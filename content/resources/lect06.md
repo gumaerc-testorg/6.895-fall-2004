@@ -2,6 +2,7 @@
 content_type: resource
 description: This lecture allows to examine some topics of decoding codes.
 file: /courses/6-895-essential-coding-theory-fall-2004/139d3fc06ab21f3201e4f43500163427_lect06.pdf
+file_size: 100071
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
