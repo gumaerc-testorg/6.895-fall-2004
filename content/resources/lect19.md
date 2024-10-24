@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An overview on extractors and extractors vs codes.
-file: /courses/6-895-essential-coding-theory-fall-2004/ecf111327f1b9377646bcb802f3dcfb3_lect19.pdf
+file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/ecf111327f1b9377646bcb802f3dcfb3_lect19.pdf
 file_size: 194771
 file_type: application/pdf
 learning_resource_types:
