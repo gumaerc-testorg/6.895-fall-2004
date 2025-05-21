@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource gives you an overview of?class. It provides information
   on Deoding; Theoretical?Bounds: Definitions, and Hamming?Bound; Themes and; Appendix?on?Algebra.'
-file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/52c97b8afa15b85a5feeddf2825b57ab_lect01.pdf
+file: /courses/6-895-essential-coding-theory-fall-2004/52c97b8afa15b85a5feeddf2825b57ab_lect01.pdf
 file_size: 122269
 file_type: application/pdf
 learning_resource_types:
