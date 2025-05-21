@@ -3,7 +3,7 @@ content_type: resource
 description: Topics covered in this resource are tanner products and Sipser-Spielman
   codes; linear time encodable & decodable codes; and decoding in linear time (data
   structure exercise).
-file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/70172ecd45b1014237302d0d5940607a_lect15.pdf
+file: /courses/6-895-essential-coding-theory-fall-2004/70172ecd45b1014237302d0d5940607a_lect15.pdf
 file_size: 240741
 file_type: application/pdf
 learning_resource_types:
