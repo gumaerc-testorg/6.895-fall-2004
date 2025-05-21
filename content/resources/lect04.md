@@ -3,7 +3,7 @@ content_type: resource
 description: This lecture allows us to examine the asymptotic performance of codes,
   prove some simple negative results concerning the parameters of codes, and analyze
   random and greedy codes.
-file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/cce7cdbf647cce78b35aae128172671c_lect04.pdf
+file: /courses/6-895-essential-coding-theory-fall-2004/cce7cdbf647cce78b35aae128172671c_lect04.pdf
 file_size: 99054
 file_type: application/pdf
 learning_resource_types:

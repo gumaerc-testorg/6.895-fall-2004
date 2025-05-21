@@ -10,7 +10,7 @@ description: 'This resource covers the following topics:
   expansion and
 
   - Locally Testable and Decodable Codes'
-file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/904589cd7a6f2aa69d4c56df48d12d18_lect22.pdf
+file: /courses/6-895-essential-coding-theory-fall-2004/904589cd7a6f2aa69d4c56df48d12d18_lect22.pdf
 file_size: 259895
 file_type: application/pdf
 learning_resource_types:
