@@ -2,7 +2,7 @@
 content_type: resource
 description: An overview on how to relate Shannon?s capacity to coding and decoding
   algorithms.
-file: /courses/6-895-essential-coding-theory-fall-2004/11fbfbbc74bf2b031e7a80b713d3e449_lect10.pdf
+file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/11fbfbbc74bf2b031e7a80b713d3e449_lect10.pdf
 file_size: 286022
 file_type: application/pdf
 learning_resource_types:
