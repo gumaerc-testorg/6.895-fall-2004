@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives an overview and talks about hamming space, distance,
   code and applications.
-file: /courses/6-895-essential-coding-theory-fall-2004/c7fee961504ab5881aba2dc149612140_lect01slx4.pdf
+file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/c7fee961504ab5881aba2dc149612140_lect01slx4.pdf
 file_size: 95748
 file_type: application/pdf
 learning_resource_types:

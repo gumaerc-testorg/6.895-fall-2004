@@ -2,7 +2,7 @@
 content_type: resource
 description: This lecture introduces and examines some topics of Pseudo-randomness
   and some applications of coding theory.
-file: /courses/6-895-essential-coding-theory-fall-2004/299d232e12c7bb97728ed74c88c5aa92_lect18.pdf
+file: /ol-ocw-studio-app/courses/6-895-essential-coding-theory-fall-2004/299d232e12c7bb97728ed74c88c5aa92_lect18.pdf
 file_size: 262783
 file_type: application/pdf
 learning_resource_types:
